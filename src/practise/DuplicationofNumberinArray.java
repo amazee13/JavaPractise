@@ -23,8 +23,5 @@ public class DuplicationofNumberinArray {
 
         System.out.println("Element found and it occurs at: " + count );
 
-
-
-
     }
 }
